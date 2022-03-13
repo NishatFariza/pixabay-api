@@ -18,3 +18,13 @@ body {
   background-color: #02b267;
 }
 /* navbar style end */
+
+/* header style start  */
+.header-bg {
+  height: 100vh;
+  background-image: url("images/pixabay-bg.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/* header style end */
